@@ -1,0 +1,25 @@
+a[data-gal] .overlay, .inner > div .item a .overlay{
+    background:none;
+    -ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#0065CD4C,endColorstr=#0065CD4C);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#0065CD4C,endColorstr=#0065CD4C);
+    zoom: 1;
+}
+
+a[data-gal]:hover .overlay, .inner > div .item a:hover .overlay {
+    background:none;
+    -ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F65CD4C,endColorstr=#7F65CD4C);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F65CD4C,endColorstr=#7F65CD4C);
+    zoom: 1;
+}
+
+.black-bg .opacity-block{
+    background:none;
+    -ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);
+    zoom: 1;
+}
+
+#toTop{
+    border: 1px solid #333;
+}
+
